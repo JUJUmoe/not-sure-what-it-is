@@ -107,5 +107,5 @@ class Converter(object):
 
 
 if __name__ == '__main__':
-    scanner = Converter("database/database.db", "6.9更新总库.txt")
+    scanner = Converter("database/database.db", "jd.txt")
     scanner.start()
