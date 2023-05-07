@@ -31,7 +31,7 @@ function Footer() {
             <Container className={classes.footer} component="footer">
                 <Box>
                     <Typography variant="caption">
-                        技术栈 React + Golang + SQLite，将于 11 月 28 日开源。
+                        技术栈 React + Golang + SQLite。
                     </Typography>
                 </Box>
                 <Box mt={2} className={classes.temp}>
